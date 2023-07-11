@@ -1,0 +1,75 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+.vscode
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+eggs/
+.eggs/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# Environments
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Azure Functions artifacts
+appsettings.json
+local.settings.json
+
+# Azurite artifacts
+__blobstorage__
+__queuestorage__
+__azurite_db*__.json
+.python_packages
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
