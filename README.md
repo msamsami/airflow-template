@@ -34,4 +34,4 @@ After deployment, visit the following link in your browser to access the Airflow
 localhost:8080
 
 ### DAGs
-![main_dag](./doc/main_dag.png)
+<img alt="main_dag" src="./doc/main_dag.png" width="40%" height="auto">
