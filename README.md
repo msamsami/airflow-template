@@ -9,7 +9,8 @@ DAGs. Visit [Airflow documentation](https://airflow.apache.org/docs/apache-airfl
 
 This is a template project to use Apache Airflow for scheduling and monitoring workflows.
 It covers how DAGs and operators are defined, scheduled, and run using Airflow.
-The deployment is also included using Docker Compose.
+The deployment is also included using Docker Compose which also creates a separate container
+for PostgreSQL database.
 
 ## Deployment
 
