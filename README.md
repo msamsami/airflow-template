@@ -1,6 +1,9 @@
 # Apache Airflow Template
 
+<br>
+
 <img alt="airflow logo" src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" width="40%" height="auto">
+
 
 ## Introduction
 Airflow is a Python-based workflow management tool for data engineering pipelines.
@@ -34,4 +37,4 @@ After deployment, visit the following link in your browser to access the Airflow
 localhost:8080
 
 ### DAGs
-<img alt="main_dag" src="./doc/main_dag.png" width="40%" height="auto">
+![main_dag](doc/main_dag.png)
