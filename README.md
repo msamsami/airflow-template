@@ -22,7 +22,7 @@ docker compose up -d --build
 ### Airflow UI
 After deployment, visit the following link in your browser to access the Airflow UI:
 
-[localhost:8080](localhost:8080)
+localhost:8080
 
 ### DAGs
 TBA...
