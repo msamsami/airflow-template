@@ -12,9 +12,17 @@ It covers how DAGs and operators are defined, scheduled, and run using Airflow.
 The deployment is also included using Docker Compose.
 
 ## Deployment
-Run the following command to build the project using Docker:
+
+### Build
+Run the following command to build/re-build the project using Docker:
 ```
 docker compose up -d --build
+```
+
+### Start
+Run the following command to start the project when it's already built:
+```
+docker compose up
 ```
 
 ## Usage
