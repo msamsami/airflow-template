@@ -10,3 +10,19 @@ DAGs. Visit [Airflow documentations](https://airflow.apache.org/docs/apache-airf
 This is a template project to use Apache Airflow for scheduling and monitoring workflows.
 It covers how DAGs and operators are defined, scheduled, and run using Airflow.
 The deployment is also included using Docker Compose.
+
+## Deployment
+Run the following command to build the project using Docker:
+```
+docker compose up -d --build
+```
+
+## Usage
+
+### Airflow UI
+After deployment, visit the following link in your browser to access the Airflow UI:
+
+[localhost:8080](localhost:8080)
+
+### DAGs
+TBA...
