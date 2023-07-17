@@ -1,4 +1,4 @@
-# Apache Airflow Template
+# Apache Airflow Template Project
 
 <br>
 
